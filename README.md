@@ -1,6 +1,6 @@
 📘 Automating Web Scraping + Bulk Translation at Scale
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Translation-deep--translator-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/> </p>
- ⚠️ IMPORTANT WARNING
+ <b>⚠️ IMPORTANT WARNING </b>
 <p align="center"><strong>THIS CODE WILL NOT WORK FOR WEBSITES PROTECTED BY CLOUDFLARE.</strong></p>
 
 ---
